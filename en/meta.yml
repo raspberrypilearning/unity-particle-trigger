@@ -1,11 +1,9 @@
-title: default-project-template
+title: Trigger a particle system when your ball reaches the goal
 hero_image: images/banner.png
-description: default-project-template description
+description: Trigger a particle system when your ball reaches the goal
 version: 4
 listed: false
 copyedit: false
 last_tested: "2022-05-19"
 steps:
-  - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Trigger a particle system when your ball reaches the goal
